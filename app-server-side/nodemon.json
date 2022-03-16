@@ -1,0 +1,6 @@
+{
+  "env": {
+    "MONGO_DB_PW": "LazSalama123",
+    "JWT_KEY": "secretkey"
+  }
+}
